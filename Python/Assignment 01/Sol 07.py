@@ -10,5 +10,4 @@ while i < len(numbers):
     if i % 2 != 0:
         result.append(int(numbers[i].strip()))
     i = i + 1
-
 print("Numbers are : ",result, "\n")

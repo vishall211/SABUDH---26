@@ -8,5 +8,4 @@ while i < user_input:
     square = i * i;
     result.append(square)
     i = i + 1
-
 print("Sqaure of integers from 0 to",user_input,"are : ",result,"\n")

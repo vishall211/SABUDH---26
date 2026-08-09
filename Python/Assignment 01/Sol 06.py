@@ -8,5 +8,4 @@ while number > 0:
     digit = number % 10
     reversed_no = reversed_no * 10 + digit
     number = number // 10
-
 print("Reversed Number : ",reversed_no, "\n")

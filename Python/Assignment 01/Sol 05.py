@@ -11,5 +11,4 @@ while count < n :
     term = term * 10 + 2
     total = total + term
     count = count + 1
-
 print("Sum of series upto n i.e",n," : ",total,"\n")

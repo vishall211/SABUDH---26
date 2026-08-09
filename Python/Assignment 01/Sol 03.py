@@ -4,7 +4,6 @@
 # 3. If the number is greater than 500, then stop the loop
 
 user_input = input("\nEnter numbers separated by commas : ")
-
 numbers = user_input.split(",")
 result = []
 

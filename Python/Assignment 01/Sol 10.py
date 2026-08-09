@@ -12,11 +12,9 @@ def count_vowels_and_consonants(word):
             vowels = vowels + 1
         else:
             consonants = consonants + 1
-        
         i = i + 1
     
     return vowels, consonants
-
 
 # Taking input
 text = input("\nEnter any word : ")

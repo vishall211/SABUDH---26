@@ -10,5 +10,4 @@ elif (b >= a and b <= c) or (b <= a and b >= c):
     median = b
 else:
     median = c
-
 print("\nMedian value is :",median,"\n")
